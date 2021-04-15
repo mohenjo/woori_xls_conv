@@ -22,7 +22,8 @@
   + pywin32
   + See requirements.txt
 
-
+### Ramarks
++ 엑셀 매크로 파일은 파이썬 스크립트와 동일한 기능을 하며, 사용성이 개선되었습니다.
 
 ## License
 
